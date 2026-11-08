@@ -85,4 +85,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushka11p/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anushka11p/neetcode-submissions/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anushka11p/neetcode-submissions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
