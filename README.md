@@ -3,7 +3,13 @@
 My solutions to data structures and algorithms problems from [LeetCode](https://leetcode.com) and the [NeetCode](https://neetcode.io) roadmap. Most are in **C++**, with a few in **C** and **Python**.
 
 ![Languages](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20C%20%7C%20Python-blue)
-![Problems](https://img.shields.io/badge/problems-15-brightgreen)
+[![LeetCode](https://img.shields.io/badge/LeetCode-TvQh01XNNR-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/TvQh01XNNR/)
+
+## LeetCode Profile
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/TvQh01XNNR?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/TvQh01XNNR/)
+
+> **Note:** This repo has only some of my solutions. For my full progress (total solved, difficulty breakdown, activity), see the live stats card above or my [LeetCode profile](https://leetcode.com/u/TvQh01XNNR/).
 
 ## Repository Structure
 
