@@ -78,3 +78,19 @@ Solutions are pushed to this repo automatically when they are accepted:
 - [ ] Rewrite **Two Sum** with a hash map (O(n))
 - [ ] Rewrite **3Sum** with sorting + two pointers (O(n²))
 - [ ] Continue the NeetCode roadmap: Sliding Window, Binary Search, Linked List
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anushka11p/neetcode-submissions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anushka11p/neetcode-submissions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anushka11p/neetcode-submissions/tree/master/0070-climbing-stairs) |
+<!---LeetCode Topics End-->
