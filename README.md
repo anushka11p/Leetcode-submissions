@@ -93,4 +93,24 @@ Solutions are pushed to this repo automatically when they are accepted:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushka11p/neetcode-submissions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anushka11p/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anushka11p/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anushka11p/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anushka11p/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anushka11p/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
